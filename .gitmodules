@@ -1,6 +1,0 @@
-[submodule "libs/beast"]
-	path = libs/beast
-	url = https://github.com/boostorg/beast
-[submodule "libs/asio"]
-	path = libs/asio
-	url = https://github.com/boostorg/asio

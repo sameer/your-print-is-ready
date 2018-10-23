@@ -1,6 +1,0 @@
-.env/
-.vscode/
-__pycache__
-htmlconv/
-.coverage
-credentials.json
